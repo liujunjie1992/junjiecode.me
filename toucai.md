@@ -10,6 +10,8 @@ tags: 瑞典人 西西里岛 偷菜
 
 瑞典人开路虎偷苦瓜：http://www.sohu.com/a/220474868_692762
 
+<!-- more -->
+
 http://www.56.com/u38/v_MTQ4ODUwODgz.html
 
 http://v.youku.com/v_show/id_XMzM2OTUzODI1Ng==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2

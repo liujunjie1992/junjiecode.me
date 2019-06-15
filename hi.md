@@ -6,6 +6,7 @@ tags: ntpdate
 #时间同步
 ubuntu时间同步
 apt-get install ntpdate -y
+<!-- more -->
 #VM
 cp /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
 centos:
